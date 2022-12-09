@@ -39,8 +39,9 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  
-    <code><img width="15%" src="[https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 </p>
 
 ---
