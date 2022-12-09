@@ -57,3 +57,5 @@ You can use the website to generate badges: https://shields.io/
 Credits: [Seytkhan](https://github.com/SeytkhanB)
 -->
 Last Edited on: 09/12/2022
+
+![snake gif](https://github.com/SeytkhanB/SeytkhanB/blob/output/github-contribution-grid-snake.gif)
