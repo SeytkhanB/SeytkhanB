@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on **MY PORTFOLIO WITE**
+- I’m currently working on **MY PORTFOLIO SITE**
 - I’m looking to collaborate on anything!
 - I'm really interested in Frontend & BACKEND & Game dev
 - Ask me about anything, I am happy to help.
