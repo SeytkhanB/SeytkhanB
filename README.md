@@ -4,10 +4,8 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<!--
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
--->
-<!-- github and linkedin is done! complete web site when you have one -->
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://seytkhan.netlify.app)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SeytkhanB)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seytkhan-balikbaev-45341422b/)
 
@@ -16,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on **MY PORTFOLIO SITE**
+- I’m currently working on **MY MOVIE SITE**
 - I’m looking to collaborate on anything!
 - I'm really interested in Frontend & BACKEND & Game dev
 - Ask me about anything, I am happy to help.
